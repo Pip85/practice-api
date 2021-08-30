@@ -1,4 +1,4 @@
-# **python-api_weather_analysis**
+# **practice-api**
 
 Student project - Analyze, chart and map random coordinates from Citipy library using Open Weather Map API data and Google Maps.
 
